@@ -1,0 +1,32 @@
+[
+    {
+        "pubmed_id": "39639989",
+        "title": "Cardiac risk and myocardial fibrosis assessment with cardiac magnetic resonance in patients with myotonic dystrophy.",
+        "abstract": "Non-invasive evaluation of myocardial tissue is a major goal of cardiac imaging. This is the case of myocardial fibrosis which is crucial in many myocardial diseases. Cardiac extracellular volume (ECV) was shown to indicate myocardial fibrosis and early cardiac involvement. With this study, our objective is to evaluate ECV measured with cardiac magnetic resonance (CMR) in patients with myotonic dystrophy type 1 (DM1) and 2 (DM2) as potential imaging biomarkers of subclinical cardiac pathology, and its relationship with demographic and clinical parameters, ECG-derived measures of cardiac conduction, and neuromuscular performance status.",
+        "publication_date": "2024/No month/No day"
+    },
+    {
+        "pubmed_id": "39639601",
+        "title": "Post-marketing safety surveillance of Ado-Trastuzumab Emtansine: a real-world data retrospective cohort study using disproportionality analysis.",
+        "abstract": "Ado-trastuzumab emtansine (T-DM1) is prescribed for HER2-positive, metastatic breast cancer or early breast cancer after neoadjuvant therapy. Although several adverse events (AEs) have been reported, there remains a need for comprehensive evaluation of its safety profile.",
+        "publication_date": "2024/Dec/05"
+    },
+    {
+        "pubmed_id": "39627841",
+        "title": "CRISPR/Cas9-induced double-strand breaks in the huntingtin locus lead to CAG repeat contraction through DNA end resection and homology-mediated repair.",
+        "abstract": "The expansion of CAG/CTG repeats in functionally unrelated genes is a causative factor in many inherited neurodegenerative disorders, including Huntington's disease (HD), spinocerebellar ataxias (SCAs), and myotonic dystrophy type 1 (DM1). Despite many years of research, the mechanism responsible for repeat instability is unknown, and recent findings indicate the key role of DNA repair in this process. The repair of DSBs induced by genome editing tools results in the shortening of long CAG/CTG repeats in yeast models. Understanding this mechanism is the first step in developing a therapeutic strategy based on the controlled shortening of repeats. The aim of this study was to characterize Cas9-induced DSB repair products at the endogenous HTT locus in human cells and to identify factors affecting the formation of specific types of sequences.",
+        "publication_date": "2024/Dec/03"
+    },
+    {
+        "pubmed_id": "39620725",
+        "title": "Meta-analysis of the clinical efficacy and safety of T-DM1 in the treatment of HER2-positive breast cancer.",
+        "abstract": "This meta-analysis aims to comprehensively evaluate the efficacy and safety of T-DM1 in treating HER2-positive breast cancer, providing insights for clinical practice. We conducted a literature search in PubMed, Cochrane Library, and Embase databases up to September 2023, collecting randomized controlled trials and cohort studies on T-DM1 for HER2-positive breast cancer. Out of 316 initially retrieved articles, 12 studies meeting the quality and inclusion criteria were included after a rigorous screening process. We used RevMan 5.3 software for the meta-analysis, employing fixed or random-effect models. Odds ratios (RRs) and 95% confidence intervals (CIs) were calculated as effect size measures. We conducted sensitivity analyses and assessed publication bias to ensure the results' stability and reliability. In seven studies, T-DM1 treatment significantly prolonged OS in patients with HER2-positive breast cancer [hazard ratio (HR) = 0.70, 95% CI: 0.64-0.77, P < 0.01], and the effect was especially pronounced in patients with advanced disease (HR = 0.64, 95% CI: 0.54-0.76, P < 0.001). Analysis of pCR rates did not show a significant difference (OR = 0.91, 95% CI: 0.48-1.73, P = 0.77). In five studies, ORR improved, but the difference between the two groups was not significant (OR = 1.16, 95% CI: 0.66-2.05, P = 0.61). Analysis of progression-free survival (PFS) showed a significant improvement in the experimental group relative to the control group (HR = 0.69, 95% CI: 0.57-0.84, P = 0.0003). Regarding the incidence of total adverse events, no significant difference was seen between the two groups (OR = 2.16, 95% CI: 0.98-4.79, P = 0.06), but for specific adverse events, such as leukopenia and neutropenia, the T-DM1 group demonstrated a significant reduction relative to the other treatment regimens. The results underscore the potential of T-DM1 in enhancing survival among patients with advanced HER2-positive breast cancer, yet they also highlight variability in effectiveness concerning pCR rate and ORR. The findings on adverse effects underscore the necessity of a balanced consideration of T-DM1's risks and benefits. Future research should focus on a more detailed examination of responses in varied patient populations, long-term outcomes, and a thorough economic evaluation of T-DM1, along with an exploration into treatment resistance. This will provide a more nuanced understanding of T-DM1's role in the treatment landscape of HER2-positive breast cancer.",
+        "publication_date": "2024/Jan/01"
+    },
+    {
+        "pubmed_id": "39616806",
+        "title": "Maternal health and obstetric complications of genetic neuromuscular disorders in pregnancy: A systematic review.",
+        "abstract": "Genetic neuromuscular disorders affect muscle function and control by the nervous system, presenting significant clinical challenges, particularly during pregnancy.",
+        "publication_date": "2024/Nov/28"
+    }
+]
